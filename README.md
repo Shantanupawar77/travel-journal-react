@@ -10,7 +10,7 @@ This repository contains a React application for documenting travel experiences.
 
 ## Live Demo
 
-You can access the live demo of this project [here](https://shantanupawar77.github.io/ToggleBoxUsingReact/).
+You can access the live demo of this project [here](https://shantanupawar77.github.io/travel-journal-react/).
 
 
 ## Components
