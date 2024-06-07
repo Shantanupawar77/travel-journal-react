@@ -8,6 +8,11 @@ This repository contains a React application for documenting travel experiences.
 - **Data Integration:** Fetches travel data from a separate file to populate the content of the cards.
 - **Responsive Design:** Ensures compatibility across different screen sizes.
 
+## Live Demo
+
+You can access the live demo of this project [here](https://shantanupawar77.github.io/ToggleBoxUsingReact/).
+
+
 ## Components
 
 ### App
